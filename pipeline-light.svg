@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 240" width="880" height="240" role="img" aria-label="A lifecycle from build to deploy to operate to recover, with three projects marked against the stages each one covers.">
+<text x="36" y="52" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Inter, Helvetica, Arial, sans-serif" font-size="18" font-weight="500" fill="#24272b" letter-spacing="-0.2">Build</text>
+<text x="36" y="72" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Inter, Helvetica, Arial, sans-serif" font-size="12.5" fill="#767d7a">an app that actually works</text>
+<text x="238" y="52" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Inter, Helvetica, Arial, sans-serif" font-size="18" font-weight="500" fill="#24272b" letter-spacing="-0.2">Deploy</text>
+<text x="238" y="72" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Inter, Helvetica, Arial, sans-serif" font-size="12.5" fill="#767d7a">safely, straight from code</text>
+<text x="440" y="52" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Inter, Helvetica, Arial, sans-serif" font-size="18" font-weight="500" fill="#24272b" letter-spacing="-0.2">Operate</text>
+<text x="440" y="72" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Inter, Helvetica, Arial, sans-serif" font-size="12.5" fill="#767d7a">and know when it is wrong</text>
+<text x="642" y="52" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Inter, Helvetica, Arial, sans-serif" font-size="18" font-weight="500" fill="#24272b" letter-spacing="-0.2">Recover</text>
+<text x="642" y="72" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Inter, Helvetica, Arial, sans-serif" font-size="12.5" fill="#767d7a">without waiting for a human</text>
+<line x1="36" y1="92" x2="844" y2="92" stroke="#d9ddda" stroke-width="1"/>
+<line x1="36" y1="87" x2="36" y2="97" stroke="#767d7a" stroke-width="1"/>
+<line x1="36" y1="104" x2="36" y2="222" stroke="#d9ddda" stroke-width="1" stroke-dasharray="1 5"/>
+<line x1="238" y1="87" x2="238" y2="97" stroke="#767d7a" stroke-width="1"/>
+<line x1="238" y1="104" x2="238" y2="222" stroke="#d9ddda" stroke-width="1" stroke-dasharray="1 5"/>
+<line x1="440" y1="87" x2="440" y2="97" stroke="#767d7a" stroke-width="1"/>
+<line x1="440" y1="104" x2="440" y2="222" stroke="#d9ddda" stroke-width="1" stroke-dasharray="1 5"/>
+<line x1="642" y1="87" x2="642" y2="97" stroke="#767d7a" stroke-width="1"/>
+<line x1="642" y1="104" x2="642" y2="222" stroke="#d9ddda" stroke-width="1" stroke-dasharray="1 5"/>
+<line x1="844" y1="87" x2="844" y2="97" stroke="#767d7a" stroke-width="1"/>
+<line x1="844" y1="104" x2="844" y2="222" stroke="#d9ddda" stroke-width="1" stroke-dasharray="1 5"/>
+<text x="36" y="121" font-family="ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, monospace" font-size="13" fill="#24272b">ai-internship-copilot</text>
+<rect x="36" y="130" width="202" height="4" rx="2" fill="#2f6f5e"/>
+<text x="440" y="159" font-family="ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, monospace" font-size="13" fill="#24272b">cloudrescue</text>
+<rect x="440" y="168" width="404" height="4" rx="2" fill="#2f6f5e"/>
+<text x="238" y="197" font-family="ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, monospace" font-size="13" fill="#24272b">deployguard</text>
+<rect x="238" y="206" width="606" height="4" rx="2" fill="#2f6f5e"/>
+</svg>
